@@ -100,5 +100,8 @@
       }
     }
   },
-  "defaultProject": "angular-essential-training"
+  "defaultProject": "angular-essential-training",
+  "cli": {
+    "analytics": "8a4d884c-f49f-4ef0-963e-07638bee4ca3"
+  }
 }
